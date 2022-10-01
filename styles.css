@@ -5,8 +5,8 @@
 }
 
 .header {
-  font-size: 72px;
-  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+  font-size: 58px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   text-align: center;
   color: #c1c1c1;
   background-color: hsl(263, 33%, 25%);
@@ -24,9 +24,8 @@
   box-shadow: 5px 5px 10px black;
 }
 
-#spicynoodles,
-#avocadotoast,
-#cashewsauce {
+
+.img {
   padding: 20px;
 }
 
