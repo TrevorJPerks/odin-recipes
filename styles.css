@@ -1,0 +1,33 @@
+
+
+.bg {
+  background-color: rgb(73, 82, 89);
+}
+
+.header {
+  font-size: 72px;
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  color: #c1c1c1;
+  background-color: hsl(263, 33%, 25%);
+}
+
+
+.navigation {
+  text-align: center;
+}
+
+.navimg {
+  height: auto;
+  width: 300px;
+  border-radius: 5%;
+  box-shadow: 5px 5px 10px black;
+}
+
+#spicynoodles,
+#avocadotoast,
+#cashewsauce {
+  padding: 20px;
+}
+
+
